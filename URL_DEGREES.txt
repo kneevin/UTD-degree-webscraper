@@ -140,5 +140,3 @@ https://www.utdallas.edu/fact-sheets/ah/phd-visual-and-performing-arts/
 https://www.utdallas.edu/fact-sheets/jsom/master-of-science-in-leadership-and-organizational-development/
 https://www.utdallas.edu/fact-sheets/jsom/bs-in-business-analytics/
 https://www.utdallas.edu/fact-sheets/is/ba-bs-in-education/
-https://www.utdallas.edu/fact-sheets/%fact-sheets_category%/jsom-include/
-https://www.utdallas.edu/fact-sheets/%fact-sheets_category%/rmi-form/

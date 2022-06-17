@@ -8,6 +8,8 @@ URL = "https://www.utdallas.edu/wp-sitemap-posts-fact_sheets-1.xml"
 page = requests.get(URL)
 soup = BeautifulSoup(page.text, features='xml')
 urls = soup.find_all('loc')
+for _ in range(2): # note how the last two links are not degree plans
+    urls.pop()
 with open('URL_DEGREES.txt', 'w') as file:
     file.write(f'URL: {URL}\n')
     for url in urls:
